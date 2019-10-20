@@ -1,0 +1,8 @@
+{
+    // need to change this id thing
+    "python.pythonPath": "~/.local/share/virtualenvs/bacon-PEpW495G/bin/python",
+    "python.formatting.provider": "black",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+}
